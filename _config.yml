@@ -2,7 +2,7 @@
 title: Lorem Ipsum - Web Developer
 description: "A blog about lorem ipsum ..."
 baseurl: "/lvluo" # for test: remove string '/space-jekyll-template' to ''
-url: "http://adamcchen.github.io/lvluo" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "http://adamcchen.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: lorem ipsum
@@ -31,19 +31,19 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: /
+      url: /lvluo
       key_trigger: 1
     - title: my posts
-      url: /posts
+      url: /lvluo/posts
       key_trigger: 2
     - title: series
-      url: /series
+      url: /lvluo/series
       key_trigger: 3
     - title: tags
-      url: /tags
+      url: /lvluo/tags
       key_trigger: 4
     - title: about me
-      url: /about
+      url: /lvluo/about
       key_trigger: 5
   section_2:
     - title: github
